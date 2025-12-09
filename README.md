@@ -13,7 +13,7 @@
  
 # 👋 Hi, I'm
 
-<br> ![My Name](https://github.com/rasenshuriken12/My_Portfolio/blob/aa51d2ee0ba19c82ed003cb0f969b9e3cc58917f/assets/Dev1.png)
+<br> ![My Name](assets/Dev1.png)
 
 </div>
 
