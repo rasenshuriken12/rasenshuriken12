@@ -13,7 +13,7 @@
  
 # 👋 Hi, I'm
 
-<br> ![My Name](https://github.com/DeviprasadShetty9833/My_Portfolio/blob/aa51d2ee0ba19c82ed003cb0f969b9e3cc58917f/assets/Dev1.png)
+<br> ![My Name](https://github.com/rasenshuriken12/My_Portfolio/blob/aa51d2ee0ba19c82ed003cb0f969b9e3cc58917f/assets/Dev1.png)
 
 </div>
 
@@ -103,7 +103,7 @@
 </td></tr>
 </table>
 
-<br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeviprasadShetty9833&layout=compact&theme=react&bg_color=0D1117&title_color=FFA500&text_color=FFFFFF&icon_color=58A6FF)
+<br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasenshuriken12&layout=compact&theme=react&bg_color=0D1117&title_color=FFA500&text_color=FFFFFF&icon_color=58A6FF)
 
 
 # 👨‍💻 Projects:
@@ -122,10 +122,10 @@
 <table>
 <tr><td>
 
-[![EcoGauge](https://github-readme-stats.vercel.app/api/pin/?username=DeviprasadShetty9833&repo=EcoGauge&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFA500&text_color=FFFFFF&border_color=61dafb&border_radius=10)](https://github.com/DeviprasadShetty9833/EcoGauge)  [![The_Conquerer](https://github-readme-stats.vercel.app/api/pin/?username=DeviprasadShetty9833&repo=The_Conquerer&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFA500&text_color=FFFFFF&border_color=61dafb&border_radius=10)](https://github.com/DeviprasadShetty9833/The_Conquerer) 
+[![EcoGauge](https://github-readme-stats.vercel.app/api/pin/?username=rasenshuriken12&repo=EcoGauge&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFA500&text_color=FFFFFF&border_color=61dafb&border_radius=10)](https://github.com/rasenshuriken12/EcoGauge)  [![The_Conquerer](https://github-readme-stats.vercel.app/api/pin/?username=rasenshuriken12&repo=The_Conquerer&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFA500&text_color=FFFFFF&border_color=61dafb&border_radius=10)](https://github.com/rasenshuriken12/The_Conquerer) 
 
 <h3 align="center">
-  <a href="https://github.com/DeviprasadShetty9833/My_Projects/blob/main/README.md" title="Show more Projects">🔎 Show More 🔍</a>
+  <a href="https://github.com/rasenshuriken12/My_Projects/blob/main/README.md" title="Show more Projects">🔎 Show More 🔍</a>
 </h3>
 
 </td></tr>
@@ -156,23 +156,23 @@
 <table>
 <tr><td>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeviprasadShetty9833&title_color=FFA500&text_color=FFFFFF&icon_color=58A6FF&bg_color=0D1117&border_color=FFFFFF&show_icons=true\&rank_icon=percentile&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasenshuriken12&title_color=FFA500&text_color=FFFFFF&icon_color=58A6FF&bg_color=0D1117&border_color=FFFFFF&show_icons=true\&rank_icon=percentile&theme=tokyonight)
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DeviprasadShetty9833&theme=dark&hide_border=false&ring=FFA500&fire=FFA500&bg_color=0D1117&currStreakLabel=FFA500&sideNums=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rasenshuriken12&theme=dark&hide_border=false&ring=FFA500&fire=FFA500&bg_color=0D1117&currStreakLabel=FFA500&sideNums=FFFFFF)](https://git.io/streak-stats)
 
 ---
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/0077B5/DeviprasadShetty9833)
+![GitHub Contribution Graph](https://ghchart.rshah.org/0077B5/rasenshuriken12)
 
 ---
 
-![trophy](https://github-profile-trophy.vercel.app/?username=DeviprasadShetty9833&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=rasenshuriken12&theme=onedark)
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeviprasadShetty9833&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rasenshuriken12&theme=react-dark)
 <br> 
 
 </td></tr>
@@ -185,7 +185,7 @@ If you like ❤️ this portfolio, give it a ⭐ (Top right of page) and share i
 
 ---
 
-| [![TOP](https://img.shields.io/badge/_🔺_-Navigate_to_TOP_↑_-blue?style=for-the-badge&labelColor=white)](#My_Portfolio) | [![My_Portfolio](https://img.shields.io/badge/Back_to-My_Portfolio-indigo?style=for-the-badge&logo=firefox&logoColor=white)]([https://yourwebsite.com/](https://deviprasadshetty.com/)) |  [![LinkedIn](https://img.shields.io/badge/Back_to-LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/deviprasad-shetty-4bba49313) |
+| [![TOP](https://img.shields.io/badge/_🔺_-Navigate_to_TOP_↑_-blue?style=for-the-badge&labelColor=white)](#My_Portfolio) | [![My_Portfolio](https://img.shields.io/badge/Back_to-My_Portfolio-indigo?style=for-the-badge&logo=firefox&logoColor=white)](https://deviprasadshetty.com/) |  [![LinkedIn](https://img.shields.io/badge/Back_to-LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/deviprasad-shetty-4bba49313) |
 |---|---|---|
 
 <div align="center">
