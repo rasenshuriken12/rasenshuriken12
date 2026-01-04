@@ -27,7 +27,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=1000&pause=2000&color=00DDFF&center=true&vCenter=true&width=600&lines=Engineering+IDEAS+into+Digital+REALITIES;Full+Stack+Developer+|+Python+Developer;DSA+Ninja+|+Problem+Solver;Code.+Debug.+Repeat.) 
+<br> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=1000&pause=2000&color=00DDFF&center=true&vCenter=true&width=600&lines=Engineering+IDEAS+into+Digital+REALITIES;Full+Stack+Developer+|+Python+Developer;DSA+Ninja+|+Data+Science+Enthusiast;Code.+Debug.+Repeat.) 
 <br> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
