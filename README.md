@@ -75,7 +75,7 @@
 
 **● Programming Languages**
 
-| ![Java](https://img.shields.io/badge/☕_Java-E34F26?style=for-the-badge&logo=java&logoColor=white) | ![Python](https://img.shields.io/badge/Python-34A8ab?style=for-the-badge&logo=python&logoColor=white) | ![DSA in C](https://img.shields.io/badge/DSA%20in%20C-000080?style=for-the-badge&logo=c&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/C++-4B8BBE?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![VB6.0](https://img.shields.io/badge/VB6.0-0077B5?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+| ![Java](https://img.shields.io/badge/☕_Java-E34F26?style=for-the-badge&logo=java&logoColor=white) | ![Python](https://img.shields.io/badge/Python-34A8ab?style=for-the-badge&logo=python&logoColor=white) | ![DSA](https://img.shields.io/badge/DSA-000080?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/C++-4B8BBE?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![VB6.0](https://img.shields.io/badge/VB6.0-0077B5?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
 |---|---|---|---|---|---|
 
 **● Data Science Tools**
