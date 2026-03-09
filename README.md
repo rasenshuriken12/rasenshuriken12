@@ -125,7 +125,7 @@
 [![EcoGauge](https://github-readme-stats.vercel.app/api/pin/?username=rasenshuriken12&repo=EcoGauge&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFA500&text_color=FFFFFF&border_color=61dafb&border_radius=10)](https://github.com/rasenshuriken12/EcoGauge)  [![The_Conquerer](https://github-readme-stats.vercel.app/api/pin/?username=rasenshuriken12&repo=The_Conquerer&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFA500&text_color=FFFFFF&border_color=61dafb&border_radius=10)](https://github.com/rasenshuriken12/The_Conquerer) 
 
 <h3 align="center">
-  <a href="https://github.com/rasenshuriken12/My_Projects/blob/main/README.md" title="Show more Projects">🔎 Show More 🔍</a>
+  <a href="https://github.com/rasenshuriken12/My_Projects/tree/main" title="Show more Projects">🔎 Show More 🔍</a>
 </h3>
 
 </td></tr>
