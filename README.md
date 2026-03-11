@@ -84,8 +84,8 @@
 | Frontend: | ![JS](https://img.shields.io/badge/JAVASCRIPT-%23323330?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E) | ![CSS](https://img.shields.io/badge/CSS-0000CD?style=for-the-badge&logo=CSS&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML5-E2725B?style=for-the-badge&logo=html5&logoColor=white) |
 |---|---|---|---|
 
-| Backend:  | ![Spring_Boot](https://img.shields.io/badge/Spring_Boot-34a952?style=for-the-badge&logo=SpringBoot&logoColor=white) |
-|---|---|
+| Backend:  | ![Django](https://img.shields.io/badge/Django-34A8ab?style=for-the-badge&logo=python&logoColor=white) | ![Spring_Boot](https://img.shields.io/badge/Spring_Boot-34a952?style=for-the-badge&logo=SpringBoot&logoColor=white) |
+|---|---|---|
 
 | Database: | ![My_SQL](https://img.shields.io/badge/My_SQL-00599C?style=for-the-badge&logo=mysql&logoColor=white) |
 |---|---|
