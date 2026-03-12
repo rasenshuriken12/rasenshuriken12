@@ -96,8 +96,8 @@
 
 **● Tools & Platforms**
 
-| ![Intellij_IDEA](https://img.shields.io/badge/Intellij_IDEA-8000FF?style=for-the-badge&logo=intellijidea&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudio&logoColor=white) | ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white) | ![UBUNTU](https://img.shields.io/badge/UBUNTU-E34F26?style=for-the-badge&logo=ubuntu&logoColor=white) | 
-|---|---|---|---|
+| ![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white&text=black) | ![Google Colab](https://img.shields.io/badge/Google_Colab-000000?style=for-the-badge&logo=google-colab&logoColor=white&labelColor=F9AB00) | ![Intellij_IDEA](https://img.shields.io/badge/Intellij_IDEA-8000FF?style=for-the-badge&logo=intellijidea&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudio&logoColor=white) | ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white) | ![UBUNTU](https://img.shields.io/badge/UBUNTU-E34F26?style=for-the-badge&logo=ubuntu&logoColor=white) | 
+|---|---|---|---|---|---|
 
 
 </td></tr>
