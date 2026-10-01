@@ -96,8 +96,8 @@
 
 **● Tools & Platforms**
 
-| ![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white&text=black) | ![Google Colab](https://img.shields.io/badge/Google_Colab-000000?style=for-the-badge&logo=google-colab&logoColor=white&labelColor=F9AB00) | ![Intellij_IDEA](https://img.shields.io/badge/Intellij_IDEA-8000FF?style=for-the-badge&logo=intellijidea&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudio&logoColor=white) | ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white) | ![UBUNTU](https://img.shields.io/badge/UBUNTU-E34F26?style=for-the-badge&logo=ubuntu&logoColor=white) | 
-|---|---|---|---|---|---|
+| ![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white&text=black) | ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-000000?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=FF991C) | ![Google Colab](https://img.shields.io/badge/Google_Colab-000000?style=for-the-badge&logo=google-colab&logoColor=white&labelColor=F9AB00) | ![Intellij_IDEA](https://img.shields.io/badge/Intellij_IDEA-8000FF?style=for-the-badge&logo=intellijidea&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudio&logoColor=white) | ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white) | ![UBUNTU](https://img.shields.io/badge/UBUNTU-E34F26?style=for-the-badge&logo=ubuntu&logoColor=white) | 
+|---|---|---|---|---|---|---|
 
 
 </td></tr>
@@ -122,7 +122,7 @@
 <table>
 <tr><td>
 
-[![EcoGauge](https://github-readme-stats.vercel.app/api/pin/?username=rasenshuriken12&repo=EcoGauge&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFA500&text_color=FFFFFF&border_color=61dafb&border_radius=10)](https://github.com/rasenshuriken12/EcoGauge)  [![The_Conquerer](https://github-readme-stats.vercel.app/api/pin/?username=rasenshuriken12&repo=The_Conquerer&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFA500&text_color=FFFFFF&border_color=61dafb&border_radius=10)](https://github.com/rasenshuriken12/The_Conquerer) 
+[![Chrome_Dino_RL](https://github-readme-stats.vercel.app/api/pin/?username=rasenshuriken12&repo=Chrome_Dino_RL&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFA500&text_color=FFFFFF&border_color=61dafb&border_radius=10)](https://github.com/rasenshuriken12/Chrome_Dino_RL) [![Aasra](https://github-readme-stats.vercel.app/api/pin/?username=rasenshuriken12&repo=Aasra&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFA500&text_color=FFFFFF&border_color=61dafb&border_radius=10)](https://github.com/rasenshuriken12/Aasra) [![EcoGauge](https://github-readme-stats.vercel.app/api/pin/?username=rasenshuriken12&repo=EcoGauge&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFA500&text_color=FFFFFF&border_color=61dafb&border_radius=10)](https://github.com/rasenshuriken12/EcoGauge)  [![The_Conquerer](https://github-readme-stats.vercel.app/api/pin/?username=rasenshuriken12&repo=The_Conquerer&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFA500&text_color=FFFFFF&border_color=61dafb&border_radius=10)](https://github.com/rasenshuriken12/The_Conquerer) 
 
 <h3 align="center">
   <a href="https://github.com/rasenshuriken12/My_Projects/tree/main" title="Show more Projects">🔎 Show More 🔍</a>
